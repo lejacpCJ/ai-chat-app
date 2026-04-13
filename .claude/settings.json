@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git diff)",
+      "Bash(git diff --staged)",
+      "Bash(git status:*)",
+      "Bash(git commit:*)",
+      "Bash(git switch:*)"
+    ]
+  }
+}
